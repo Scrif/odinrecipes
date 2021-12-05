@@ -1,3 +1,3 @@
-# odinrecipes
+# README
 
 Basic HTML website practice.
